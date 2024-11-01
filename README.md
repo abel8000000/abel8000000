@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! I'm Abel. I'm a 17yo student from Colombia learning about programming. I'm currently studying engineering in college.
+Hi! I'm Abel. I'm a 18yo student from Colombia learning about programming. I'm currently studying engineering in college.
 I'm learning anything about programming and computer science. I find it really fun and would like to do more serious projects in the future.
 I'm looking to collaborate on anything I could help with. It would be really good if I start collaborating on more serious projects because I feel like I'm prepared and would be glad to help.
 Ask me about anything you need! I always have some free time and would probably respond very quick.
